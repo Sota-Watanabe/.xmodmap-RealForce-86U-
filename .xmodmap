@@ -1,0 +1,21 @@
+clear lock
+clear control
+clear mod1
+clear shift
+keycode  37 = Home Home Home
+keycode 108 = End End End
+keycode  66 = Control_L Control_L Control_L Control_L
+keycode 133 = Mode_switch
+keycode 105 = Super_L
+keycode  43 = h H Left Left
+keycode  44 = j J Down Down
+keycode  45 = k K Up Up 
+keycode  46 = l L Right Right
+keycode  62 = Alt_R
+keycode   9 = Menu NoSymbol Menu
+keycode 135 = Escape NoSymbol Escape
+keycode  53 = x X Delete Delete
+add control = Control_L
+add mod1 = Alt_L
+add mod1 = Alt_R 
+add shift = Shift_L
